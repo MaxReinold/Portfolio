@@ -21,26 +21,6 @@ body {
   background-color: var(--white);
 }
 
-#info-btn {
-  position: fixed;
-  right: 6vw;
-  top: 3vh;
-  width: 32px;
-  height: 32px;
-  text-align: center;
-}
-
-@keyframes blueease {
-  100% {
-    background-color: var(--blue);
-  }
-}
-
-#info-btn p {
-  padding: 0;
-  margin: auto;
-}
-
 .drop-shadow {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
